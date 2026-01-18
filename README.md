@@ -7,7 +7,7 @@ This project helps users add, complete, and delete daily tasks, and saves data u
 
 📂 GitHub Repository
 
-👉 https://github.com/suchipatel03/student-task-manager
+👉 https://github.com/suchipatel03/Task_Manager
 
 ⸻
 
@@ -40,7 +40,7 @@ This project helps users add, complete, and delete daily tasks, and saves data u
 
 🧪 How to Run Locally
 1.	Clone the repository:
-			git clone https://github.com/Suchipatel03/student-task-manager.git
+			git clone https://github.com/suchipatel03/Task_Manager.git
 			
 2.	Open the project folder
 3.	Double-click index.html
