@@ -50,11 +50,11 @@ Add screenshots of your project here (optional but recommended).
 ⸻
 
 🧪 How to Run Locally
-	1.	Clone the repository:
+1.	Clone the repository:
       git clone https://github.com/yourusername/student-task-manager.git
 
-  2.	Open the folder
-	3.	Double-click index.html
+2.	Open the folder
+3.	Double-click index.html
 OR use Live Server in VS Code
 
 ⸻
