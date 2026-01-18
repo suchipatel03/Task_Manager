@@ -7,34 +7,34 @@ This project helps users add, complete, and delete daily tasks, and saves data u
 
 📂 GitHub Repository
 
-👉 https://github.com/Suchipatel03/student-task-manager
+👉 https://github.com/suchipatel03/student-task-manager
 
 ⸻
 
 🛠️ Tech Stack
-	•	HTML5
-	•	CSS3
-	•	JavaScript (ES6)
-	•	Browser LocalStorage
+•	HTML5
+•	CSS3
+•	JavaScript
+•	Browser LocalStorage
 
 ⸻
 
 ✨ Features
-	•	➕ Add new tasks
-	•	✅ Mark tasks as completed / uncompleted
-	•	❌ Delete individual tasks
-	•	🧹 Clear all tasks
-	•	💾 Tasks persist using LocalStorage
-	•	⌨️ Press Enter to add a task
-	•	📱 Responsive design
+•	➕ Add new tasks
+•	✅ Mark tasks as completed / uncompleted
+•	❌ Delete individual tasks
+•	🧹 Clear all tasks
+•	💾 Tasks persist using LocalStorage
+•	⌨️ Press Enter to add a task
+•	📱 Responsive design
 	
 ⸻
 
 🧠 What I Learned
-	•	DOM manipulation using JavaScript
-	•	Event handling (click, keydown)
-	•	Using LocalStorage for data persistence
-	•	Structuring a basic web project
+•	DOM manipulation using JavaScript
+•	Event handling (click, keydown)
+•	Using LocalStorage for data persistence
+•	Structuring a basic web project
 
 ⸻
 
@@ -49,10 +49,11 @@ OR open with Live Server in VS Code
 ⸻
 
 🔮 Future Improvements
-	•	Edit task feature
-	•	Search & filter tasks
-	•	Dark mode
-	•	Drag & drop tasks
+	
+•	Edit task feature
+•	Search & filter tasks
+•	Dark mode
+•	Drag & drop tasks
 
 ⸻
 
