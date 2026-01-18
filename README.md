@@ -39,10 +39,11 @@ This project helps users add, complete, and delete daily tasks, and saves data u
 ⸻
 
 🧪 How to Run Locally
-	1.	Clone the repository:
+1.	Clone the repository:
 			git clone https://github.com/Suchipatel03/student-task-manager.git
-	2.	Open the project folder
-	3.	Double-click index.html
+			
+2.	Open the project folder
+3.	Double-click index.html
 OR open with Live Server in VS Code
 
 ⸻
